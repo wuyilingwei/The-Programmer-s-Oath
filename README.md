@@ -21,4 +21,6 @@ I will produce estimates that are honest both in magnitude and precision. I will
 
 I will never stop learning and improving my craft.
 
-From http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
+-2021/12/10 YigeYigeren 
+
+This Oath from http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
