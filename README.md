@@ -20,3 +20,5 @@ I will continuously ensure that others can cover for me, and that I can cover fo
 I will produce estimates that are honest both in magnitude and precision. I will not make promises without certainty.
 
 I will never stop learning and improving my craft.
+
+From http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
