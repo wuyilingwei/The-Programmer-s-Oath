@@ -1,5 +1,5 @@
-# The-Programmer's-Oath
-# 一个程序员的承诺 
+# The Programmer's Oath
+# 程序员职业誓言 
 
 In order to defend and preserve the honor of the profession of computer programmers,
 
